@@ -40,7 +40,7 @@ Gosto de aprender novas tecnologias e transformar ideias em soluções reais.
 ## 🌟 Projetos em destaque
 
 - 🦷 [Protótipo - Clinica Odontologica](https://github.com/Lucas-Constante-Serafim/clinicaBasica) — Sistema de agendamento e site de clínica odontológica em **PHP + MySQL**
-- 🖥️ [Portfólio Pessoal](https://github.com/Lucas-Constante-Serafim/Portfolio) — Página pessoal com HTML, CSS e JavaScript
+- 🖥️ [Portfólio Pessoal](https://github.com/Lucas-Constante-Serafim/Lucas-Constante-Serafim) — Página pessoal com HTML, CSS e JavaScript
 
  
 <div align="center"> 
