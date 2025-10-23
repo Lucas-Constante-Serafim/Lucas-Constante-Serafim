@@ -58,4 +58,3 @@ Gosto de aprender novas tecnologias e transformar ideias em soluções reais.
 
 ---
 <p align="center">✨ “A tecnologia move o mundo, e eu quero fazer parte dessa mudança.” ✨</p>
-SS
