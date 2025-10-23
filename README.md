@@ -37,10 +37,9 @@ Gosto de aprender novas tecnologias e transformar ideias em soluções reais.
 🧩 **Em aprendizado:** Java, PHP e integração com banco de dados  
 ⚙️ **Ferramentas:** VS Code, XAMPP, Git, GitHub
 
-## 🌟 Projeto em destaque
+## 🌟 Projetos em destaque
 
-- 🦷 [OrthoLuxe](https://github.com/Lucas-Constante-Serafim/OrthoLuxe) — Sistema de agendamento e site de clínica odontológica em **PHP + MySQL**
-- 💾 [Sistema de Login](https://github.com/Lucas-Constante-Serafim/Sistema-Login) — Autenticação com controle de sessão
+- 🦷 [Protótipo - Clinica Odontologica](https://github.com/Lucas-Constante-Serafim/clinicaBasica) — Sistema de agendamento e site de clínica odontológica em **PHP + MySQL**
 - 🖥️ [Portfólio Pessoal](https://github.com/Lucas-Constante-Serafim/Portfolio) — Página pessoal com HTML, CSS e JavaScript
 
  
