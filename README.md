@@ -3,7 +3,7 @@
 <p align="center">
   💻 Estudante de <strong>Engenharia de Software</strong> na SATC <br>
   🚀 Apaixonado por <strong>programação, desenvolvimento web</strong> e <strong>soluções inovadoras</strong> <br>
-  🌱 Atualmente aprendendo <strong>PHP, Java e Banco de Dados</strong>
+  🌱 Atualmente aprendendo <strong>Python, Java e Banco de Dados</strong>
 </p>
 
 ## 👨‍💻 Sobre mim
@@ -44,7 +44,7 @@ Gosto de aprender novas tecnologias e transformar ideias em soluções reais.
   <a href="mailto:luacasserafimpv@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/lucas-serafim-b745a12b6/" target="_blank">
+  <a href="https://www.linkedin.com/in/lucas-constante-serafim-b745a12b6/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>  
 </div>
