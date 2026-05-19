@@ -7,20 +7,13 @@
 </p>
 
 ## 👨‍💻 Sobre mim
-Sou um estudante dedicado de **Técnico em Informática** com interesse em **desenvolvimento de sistemas, banco de dados e infraestrutura**.  
+Sou um estudante dedicado de **Engenharia de Software** com interesse em **desenvolvimento de sistemas, banco de dados e infraestrutura**.  
 Gosto de aprender novas tecnologias e transformar ideias em soluções reais.  
 
-- 🎓 **Curso técnico:** CEDUP Abílio Paulo (Criciúma - SC)  
-- 💡 Atualmente focado em: **PHP, Java, MySQL e desenvolvimento web**  
+- 🎓 **Graduação:** SATC (Criciúma - SC)  
+- 💡 Atualmente focado em: **Python, Java, MySQL e desenvolvimento web**  
 - 📈 Busco minha **primeira oportunidade na área de TI**
 - 🧩 Projetos pessoais disponíveis nos repositórios abaixo!
-
-<div align="center">
-  <a href="https://github.com/Lucas-Constante-Serafim">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Constante-Serafim&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Constante-Serafim&layout=compact&langs_count=7&theme=radical"/>
-  </a>
-</div>
 
 ## 🚀 Tecnologias que utilizo
 <div style="display: inline_block"><br>
