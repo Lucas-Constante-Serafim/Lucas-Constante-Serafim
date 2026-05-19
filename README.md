@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá! Sou Lucas Constante Serafim</h1>
 
 <p align="center">
-  💻 Estudante de <strong>Tecnologia da Informação</strong> no CEDUP Abílio Paulo <br>
+  💻 Estudante de <strong>Engenharia de Software</strong> na SATC <br>
   🚀 Apaixonado por <strong>programação, desenvolvimento web</strong> e <strong>soluções inovadoras</strong> <br>
   🌱 Atualmente aprendendo <strong>PHP, Java e Banco de Dados</strong>
 </p>
